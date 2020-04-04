@@ -13,6 +13,10 @@
     box-sizing:content-box;
 }
 
+:focus, :active, :hover {
+	outline: none;
+}
+
 .bp-corner-all {
     -moz-border-radius: 4px;
     -webkit-border-radius: 4px;
@@ -34,8 +38,7 @@
     line-height: 11px;
     color: white;
     padding: 0;
-    width: 100px !important;
-    left: -10px !important;
+height: 33px !important;
 }
 
 .bp-title-frame {
@@ -43,10 +46,11 @@
     border-width: 0;
     color: white;
     padding: 0;
+height: 33px !important;
 }
 
 .bp-photo-frame {
-
+top: 3px !important;
     color: #1c94c4;
 }
 

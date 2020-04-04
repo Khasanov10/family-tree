@@ -18,7 +18,7 @@
   {
     id: "hasan",
     parents: [1, 2],
-    title: "Hasan doda",
+    title: "Abduvosiqov Xasan",
     label: "",
     description: "",
     image: "photos/e.png",
@@ -26,9 +26,9 @@
   },
   {
     id: "jamila",
-    title: "Jamila buvi",
+    title: "Abduvosiqova Jamila",
     label: "",
-    description: "",
+    description: "1941-yil 14-yanvar",
     image: "photos/e.png",
     itemTitleColor: "#ffc0cb"
   },
@@ -183,7 +183,7 @@
   {
     id: "jamol",
     parents: ["erkin", "nargiza"],
-    title: "Jamol",
+    title: "Qodirov Jamol",
     label: "",
     description: "",
     image: "photos/e.png",
@@ -236,9 +236,9 @@
   {
     id: "jahongir",
     parents: ["erkin", "nargiza"],
-    title: "Jahongir",
+    title: "Samatov Jahongir",
     label: "",
-    description: "",
+    description: "1993-yil 26-mart",
     image: "photos/e.png",
     itemTitleColor: "#c8e4fb"
   },
@@ -282,7 +282,7 @@
     parents: ["hasan", "jamila"],
     title: "Abduvosiqov Abdumo'min",
     label: "",
-    description: "",
+    description: "1969-yil 19-sentabr",
     image: "photos/e.png",
     itemTitleColor: "#c8e4fb"
   },
@@ -290,7 +290,7 @@
     id: "surayyo",
     title: "Surayyo",
     label: "",
-    description: "",
+    description: "1974-yil 3-fevral",
     image: "photos/e.png",
     itemTitleColor: "#ffc0cb"
   },
@@ -306,44 +306,62 @@
   {
     id: "avzal",
     parents: ["abdumomin", "surayyo"],
-    title: "Avzal",
+    title: "Xasanov Avzal",
     label: "",
-    description: "",
+    description: "1991-yil 29-avgust",
     image: "photos/e.png",
     itemTitleColor: "#c8e4fb"
   },
   {
     id: "muharram",
-    title: "Muharram",
+    title: "Xasanova Muharram",
     label: "",
-    description: "",
+    description: "1993-yil 6-iyul",
     image: "photos/e.png",
     itemTitleColor: "#ffc0cb"
   },
   {
     id: "madina-2",
     parents: ["avzal", "muharram"],
-    title: "Madina",
+    title: "Abdumo'minova Madina",
     label: "",
-    description: "",
+    description: "2013-yil 5-yanvar",
     image: "photos/e.png",
     itemTitleColor: "#ffc0cb"
   },
   {
     id: "akmal",
     parents: ["abdumomin", "surayyo"],
-    title: "Akmal",
+    title: "Xasanov Akmal",
+    label: "",
+    description: "1993-yil 4-sentabr",
+    image: "photos/e.png",
+    itemTitleColor: "#c8e4fb"
+  },
+{
+    id: "sayyora",
+    title: "Xasanova Sayyora",
     label: "",
     description: "",
     image: "photos/e.png",
     itemTitleColor: "#c8e4fb"
   },
+{
+    id: "yasmina",
+    parents: ["akmal", "sayyora"],
+    title: "Yasmina",
+    label: "",
+    description: "2020-yil 9-mart",
+    image: "photos/e.png",
+    itemTitleColor: "#c8e4fb"
+  },
+
   {
     id: "rasul",
     parents: ["abdumomin", "surayyo"],
-    title: "Rasulbek",
+    title: "Xasanov Rasulbek",
     label: "",
-    description: "",
+    description: "1997-yil 8-oktabr",
     image: "photos/e.png",
     itemTitleColor: "#c8e4fb"
   },
@@ -377,7 +395,7 @@
   {
     id: "abduvosit",
     parents: ["maruf", "dilfuza"],
-    title: "Abduvosit",
+    title: "Abduvosiqov Abduvosit",
     label: "",
     description: "",
     image: "photos/e.png",
